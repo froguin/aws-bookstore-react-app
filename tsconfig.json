@@ -14,6 +14,7 @@
     "noEmit": true,
     "jsx": "preserve",
     "lib": ["es2015", "es2017", "dom", "esnext.asynciterable"],
+    "useUnknownInCatchVariables": false,
     "typeRoots": [
       "./src/types",
       "./node_modules/@types"
