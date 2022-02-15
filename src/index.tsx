@@ -5,7 +5,9 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import Amplify from "aws-amplify";
+//import awsExports from "./aws-exports";
 import config from "./config";
+//Amplify.configure(awsExports);
 
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
