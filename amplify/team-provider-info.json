@@ -1,15 +1,23 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-awsbookstorereactapp-dev-32824-authRole",
-      "UnauthRoleArn": "arn:aws:iam::229666987193:role/amplify-awsbookstorereactapp-dev-32824-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::229666987193:role/amplify-awsbookstorereactapp-dev-32824-authRole",
+      "AuthRoleName": "amplify-amadozon-dev-80640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::229666987193:role/amplify-amadozon-dev-80640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::229666987193:role/amplify-amadozon-dev-80640-authRole",
       "Region": "ap-northeast-2",
-      "DeploymentBucketName": "amplify-awsbookstorereactapp-dev-32824-deployment",
-      "UnauthRoleName": "amplify-awsbookstorereactapp-dev-32824-unauthRole",
-      "StackName": "amplify-awsbookstorereactapp-dev-32824",
-      "StackId": "arn:aws:cloudformation:ap-northeast-2:229666987193:stack/amplify-awsbookstorereactapp-dev-32824/01dd6550-8c7d-11ec-a3f1-02a225024650",
-      "AmplifyAppId": "d31uilitc7dq55"
+      "DeploymentBucketName": "amplify-amadozon-dev-80640-deployment",
+      "UnauthRoleName": "amplify-amadozon-dev-80640-unauthRole",
+      "StackName": "amplify-amadozon-dev-80640",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:229666987193:stack/amplify-amadozon-dev-80640/36d0bb30-8e36-11ec-a3b4-0ae1dae207ec",
+      "AmplifyAppId": "d7f1c0b07rvh5"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d7f1c0b07rvh5",
+          "type": "manual"
+        }
+      }
     }
   }
 }
